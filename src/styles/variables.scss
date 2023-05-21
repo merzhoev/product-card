@@ -1,0 +1,22 @@
+:root {
+  // fonts
+  --font-family-main: 'Roboto';
+
+  --font-size-md: 16px;
+  --font-line-md: 24px;
+  --font-md: var(--font-size-md) / var(--font-line-md) var(--font-family-main);
+
+  --font-size-lg: 24px;
+  --font-line-lg: 32px;
+  --font-lg: var(--font-size-lg) / var(--font-line-lg) var(--font-family-main);
+
+  --font-size-xl: 32px;
+  --font-line-xl: 40px;
+  --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family-main);
+
+  // colors
+  --color-orange: '#FBBF23';
+  --color-blue: '#61A5FA';
+  --color-black: '#333333';
+  --color-gray: '#666666';
+}
